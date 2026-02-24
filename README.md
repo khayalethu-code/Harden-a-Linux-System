@@ -1,4 +1,4 @@
-# PROJECTNAME
+# PROJECT NAME
 
 ## Objective
   * Use a security auditing tool to discover system vulnerabilities.
